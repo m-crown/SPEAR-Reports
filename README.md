@@ -3,7 +3,7 @@
 # SPEAR Reports
 SPEAR Reports is a repository of reports produced from the Systematic ProtEin AnnotatoR (SPEAR) tool for lineages and sequences of interest. It also contains a log of the current lineages supplied in SPEAR as a baseline file. 
 
-An example SPEAR report for the demo data distributed within SPEAR can be found [here](https://m-crown.github.io/SPEAR-Reports/docs/pages/spear_reports/example_vcfs/report.html). 
+An example SPEAR report for the demo data distributed within SPEAR can be found [here](https://m-crown.github.io/SPEAR-Reports/spear_reports/example_vcfs/report.html). 
 
 This repo is also viewable as a GitHub pages site [here](https://m-crown.github.io/SPEAR-Reports).
   
