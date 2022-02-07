@@ -1,0 +1,2 @@
+theme: jekyll-theme-minimal
+include: [spear_reports, data, docs]
