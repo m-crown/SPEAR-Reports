@@ -5,7 +5,7 @@ SPEAR Reports is a repository of reports produced from the Systematic ProtEin An
 
 An example SPEAR report for the demo data distributed within SPEAR can be found [here](https://m-crown.github.io/SPEAR-Reports/docs/pages/report.html). 
 
-This repo is also viewable as a GitHub pages site [here](https://m-crown.github.io/SPEAR-Reports-test).
+This repo is also viewable as a GitHub pages site [here](https://m-crown.github.io/SPEAR-Reports).
   
 ## SPEAR Report Format
 
