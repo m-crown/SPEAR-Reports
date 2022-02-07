@@ -1,3 +1,5 @@
+![SPEAR Reports Logo](images/SPEAR_REPORTS.svg)
+
 # SPEAR Reports
 SPEAR Reports is a repository of reports produced from the Systematic ProtEin AnnotatoR (SPEAR) tool for lineages and sequences of interest. It also contains a log of the current lineages supplied in SPEAR as a baseline file. 
 
@@ -17,7 +19,7 @@ The amino acid changes table lists all missense, insertion and deletion events, 
 
 ![mutation tables image](images/mutation_tables.png)
 
-These tables may be useful when discussing new lineages and variants, as they can provide a quick overview of the mutations shared amongst samples in both nucleotide and amino acid space. 
+These tables may be useful when discussing new lineages and variants, as they can provide a quick overview of the mutations shared amongst samples in both nucleotide and amino acid space.
 
 ### Heatmaps
 
