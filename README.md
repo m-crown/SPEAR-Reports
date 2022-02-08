@@ -40,7 +40,7 @@ Product plots are produced for all samples passing QC. These plots are available
 
 ![SPEAR mutation product plot](images/product_plots_table.png)
 
-These plots show the sample mutations in their relative product/ORF positions. Each mutation is represented by a point, coloured depending on the selected score from the dropdown links in the top left. Subsets of products can be viewed by selecting from the dropdown, allowing for closer inspection in mutation dense regions (e.g. Spike).
+These plots show the sample mutations in their relative product/ORF positions (A). Each mutation is represented by a point, coloured depending on the selected score from the dropdown links in the top left. Subsets of products can be viewed by selecting from the dropdown, allowing for closer inspection in mutation dense regions (e.g. Spike or pp1a - see C). For residues in Spike which have been assigned a score, hovering over a residue will display the score associated with the selected metric (see B). 
 
 ![SPEAR mutation product plot](images/product_plots.png)
 
