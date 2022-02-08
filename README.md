@@ -54,9 +54,9 @@ Lineages currently in SPEAR baseline set:
 
 | Lineage   | Date Added | Issue |
 | --------- | ---------- | ----- |
-| Alpha | 2022-02-06 | [#1](https://github.com/m-crown/SPEAR-Reports-test/issues/1) |
-| Delta | 2022-02-06 | [#1](https://github.com/m-crown/SPEAR-Reports-test/issues/1) |
-| Omicron | 2022-02-06 | [#1](https://github.com/m-crown/SPEAR-Reports-test/issues/1) |
-| BA.1 | 2022-02-06 | [#1](https://github.com/m-crown/SPEAR-Reports-test/issues/1) |
-| BA.1.1 | 2022-02-06 | [#1](https://github.com/m-crown/SPEAR-Reports-test/issues/1) |
-| BA.2 | 2022-02-06 | [#1](https://github.com/m-crown/SPEAR-Reports-test/issues/1) | 
+| Alpha | 2022-02-08 | [#1](https://github.com/m-crown/SPEAR-Reports/issues/1) |
+| Delta | 2022-02-08 | [#2](https://github.com/m-crown/SPEAR-Reports/issues/2) |
+| Omicron | 2022-02-08 | [#3](https://github.com/m-crown/SPEAR-Reports/issues/3) |
+| BA.1 | 2022-02-08 | [#4](https://github.com/m-crown/SPEAR-Reports/issues/4) |
+| BA.1.1 | 2022-02-08 | [#5](https://github.com/m-crown/SPEAR-Reports/issues/5) |
+| BA.2 | 2022-02-08 | [#6](https://github.com/m-crown/SPEAR-Reports/issues/6) | 
