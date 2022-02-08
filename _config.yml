@@ -1,2 +1,2 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 include: [spear_reports, data, docs]
