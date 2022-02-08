@@ -46,6 +46,10 @@ These plots show the sample mutations in their relative product/ORF positions (A
 
 ## SPEAR Baseline 
 
+There is no definitive list of mutations for a lineage, as different resources, groups and government bodies may use different metrics to determine the canonical set of mutations at AA or genomic level (e.g. [outbreak.info](https://outbreak.info) selects by mutations shared amongst 75% sequences, but [Pango-Designation](https://github.com/cov-lineages/pango-designation/) often use a small initial set of sequences to determine this canonical set). 
+
+The VCFs produced and distributed in SPEAR are a best effort at consolidating these multiple sources whilst also reflecting the natural samples we observe when sequencing SARS-CoV-2 genomes. Where the exact genomic event could not be found for a particular mutation in existing definitions, natural samples observed as part of Northumbria University SARS-CoV-2 sequencing were consulted for that particuar lineage. 
+
 Lineages currently in SPEAR baseline set:  
 
 | Lineage   | Date Added | Issue |
