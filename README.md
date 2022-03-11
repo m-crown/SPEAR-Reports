@@ -34,6 +34,12 @@ Table containing summary score values per sample, with highlighted cells where s
 
 ![SPEAR scores summary table](images/scores_table.png)
 
+### Domain and Feature tables
+
+Tables containing summaries of the domains and features within domains which contain AA point mutations, insertions or deletions. 
+
+![SPEAR domain and feature tables](images/domain_feature_tables.png)
+
 ### Product Plots
 
 Product plots are produced for all samples passing QC. These plots are available from the main report under the collapsed Product Plots link.    
