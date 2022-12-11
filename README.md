@@ -65,4 +65,4 @@ Lineages currently in SPEAR baseline set:
 | Omicron | 2022-02-08 | [#3](https://github.com/m-crown/SPEAR-Reports/issues/3) |
 | BA.1 | 2022-02-08 | [#4](https://github.com/m-crown/SPEAR-Reports/issues/4) |
 | BA.1.1 | 2022-02-08 | [#5](https://github.com/m-crown/SPEAR-Reports/issues/5) |
-| BA.2 | 2022-02-08 | [#6](https://github.com/m-crown/SPEAR-Reports/issues/6) | 
+| BA.2 | 2022-02-08 | [#6](https://github.com/m-crown/SPEAR-Reports/issues/6) |
