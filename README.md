@@ -4,7 +4,7 @@
 SPEAR Reports is a repository of reports produced from the Systematic ProtEin AnnotatoR (SPEAR) tool for lineages and genomes of interest. It also contains a log of the current lineages supplied in SPEAR as a baseline file. This repo is also viewable as a GitHub pages site [here](https://m-crown.github.io/SPEAR-Reports).
 
 ## Demo Report
-An example SPEAR report for the demo data distributed within SPEAR (currently lineages Alpha, Delta, BA.1, BA.1.1, BA.2, BA.2.12.1, BA.4, BA.5) can be found [here](https://m-crown.github.io/SPEAR-Reports/spear_reports/example_vcfs/report.html). 
+An example SPEAR report for the demo data distributed within SPEAR (currently lineages Alpha, Delta, BA.1, BA.1.1, BA.2, BA.2.12.1, BA.2.75, BA.4, BA.5, BA.5.3.1, BQ.1, BQ.1.1) can be found [here](https://m-crown.github.io/SPEAR-Reports/spear_reports/example_vcfs/report.html). 
   
 ## SPEAR Report Format
 
@@ -12,7 +12,7 @@ SPEAR Reports are composed of four components: a summary of the nucleotide and a
 
 ### Mutation summaries
 
-The nucleotide changes summary table lists all mutations (point mutations, insertions and deletions), including those in intergenic regions and synonymous mutations, found across all samples, and lists observation count and the percentage of samples each mutation is seen in. 
+The nucleotide changes summary table lists all mutations (point mutations, insertions and deletions), including those in intergenic regions and synonymous mutations, found across all samples, and lists observation count and the percentage of samples each mutation is seen in.
 
 The amino acid changes table lists all missense, insertion and deletion events, again with counts and percentage of samples these mutations are observed in. 
 
