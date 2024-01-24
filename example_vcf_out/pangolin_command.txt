@@ -1,0 +1,9 @@
+Pangolin arguments: --analysis-mode accurate --outdir example_vcf_out --max-ambig 0.3 -t 1
+pangolin: 4.3.1
+pangolin-data: 1.24
+constellations: v0.1.12
+scorpio: 0.3.19
+usher 0.6.3
+gofasta 1.2.1
+minimap2 2.26-r1175
+faToVcf: 448

@@ -1,0 +1,1 @@
+spear:vcf,mask-problem-sites:None,aligner:None,cutoff:0.3,global_n:1.0,s_n:1.0,s_contig:29903,rbd_n:5000,window:False
